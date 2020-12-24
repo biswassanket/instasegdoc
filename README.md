@@ -1,3 +1,6 @@
 # instasegdoc
-IJDAR 2021 
-** Code coming soon
+
+ IJDAR 2021
+
+** Code coming soon **
+
